@@ -23,7 +23,7 @@
     <section id="tentang">
         <h2>Tentang Magang</h2>
         <p>Saya melakukan magang di <strong>Rowellin Persada Utama</strong> dari <strong>15/07/2024</strong> hingga <strong>15/12/2024</strong>. Selama magang, saya mendapatkan banyak pengalaman berharga di bidang <strong>[Bidang Pekerjaan]</strong>.</p>
-        <img src="gambar.jpg" alt="Gambar terkait magang" class="responsive">  
+        <img src="Gambar WhatsApp 2024-07-01 pukul 19.44.28_c6675ff3.jpg" alt="Gambar terkait magang" class="responsive">  
         </section>
     
     <section id="proyek">
